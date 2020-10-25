@@ -1,7 +1,6 @@
-<h1 align="center">Um Clone da interface inicial do NetFlix feita com HTML5 CSS3 e Javascript aplicação completa para diário de Classe Conectada com a Api online</h1>
+<h1 align="center">Um Clone da interface inicial do NetFlix feita com HTML5 CSS3 e Javascript</h1>
 
-Esse repo é um projeto da Digital Innovation One
-[Digital Innovation One](https://digitalinnovation.one/sign-up?ref=QFX2ZVP4RU)
+Esse repo é um projeto da [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=QFX2ZVP4RU)
 
 ![](https://img.shields.io/github/stars/4lexRossi/cloneNetflix.svg) ![](https://img.shields.io/github/forks/4lexRossi/cloneNetflix.svg) ![](https://img.shields.io/github/issues/4lexRossi/cloneNetflix.svg)
 
